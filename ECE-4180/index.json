@@ -1,0 +1,28 @@
+{
+    "version": "2026-01-24",
+    "type": "net.bp4k.SectionListing",
+    "sections": [
+        {
+            "id": "FRATTAFA25",
+            "semester": "202508",
+            "name": "ECE-4180-B",
+            "instructors": ["Prof. Diego Fratta"],
+            "contributors": ["Anonymous Students"],
+            "_links": {
+                "resources": "FRATTAFA25/index.json",
+                "website": "https://people.devinivas.org/"
+            }
+        },
+        {
+            "id": "FRATTASP26",
+            "semester": "202602",
+            "name": "ECE-4180-TA",
+            "instructors": ["Prof. Diego Fratta"],
+            "contributors": ["Advaith Menon (TA resources)"],
+            "_links": {
+                "resources": "FRATTASP26/index.json",
+                "website": "https://people.devinivas.org/"
+            }
+        }
+    ]
+}

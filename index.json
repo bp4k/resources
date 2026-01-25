@@ -1,0 +1,31 @@
+{
+    "version": "2026-01-24",
+    "type": "net.bp4k.CourseListing",
+    "courses": [
+        {
+            "id": "ECE-2040",
+            "number": "ECE-2040",
+            "name": "Circuit Analysis",
+            "description": "Thevenin, norton and all the good stuff",
+            "_links": {
+                "sections": "ECE-2040/index.json"
+            }
+        },
+        {
+            "id": "ECE-3058",
+            "number": "ECE-3058",
+            "name": "Architecture, Systems, Energy and Concurrency in Comp.",
+            "_links": {
+                "sections": "ECE-3058/index.json"
+            }
+        },
+        {
+            "id": "ECE-4180",
+            "number": "ECE-4180",
+            "name": "Embedded Systems",
+            "_links": {
+                "sections": "ECE-4180/index.json"
+            }
+        }
+    ]
+}

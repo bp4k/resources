@@ -1,0 +1,18 @@
+{
+    "version": "2026-01-24",
+    "type": "net.bp4k.SectionListing",
+    "sections": [
+        {
+            "id": "FRAZIERSU25",
+            "semester": "202505",
+            "name": "ECE-2040-TA",
+            "instructors": ["Dr. Albert Frazier", "Alireza Khierandish",
+                "Samin Alipur", "Destiny Mabry", "Advaith Menon"],
+            "contributors": ["Advaith Menon (TA resources)"],
+            "_links": {
+                "resources": "FRAZIERSU25/index.json",
+                "website": "https://people.devinivas.org/"
+            }
+        }
+    ]
+}
