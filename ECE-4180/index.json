@@ -9,8 +9,7 @@
             "instructors": ["Prof. Diego Fratta"],
             "contributors": ["Anonymous Students"],
             "_links": {
-                "resources": "FRATTAFA25/index.json",
-                "website": "https://people.devinivas.org/"
+                "resources": "FRATTAFA25/index.json"
             }
         },
         {
@@ -21,7 +20,7 @@
             "contributors": ["Advaith Menon (TA resources)"],
             "_links": {
                 "resources": "FRATTASP26/index.json",
-                "website": "https://people.devinivas.org/"
+                "website": "https://ece-embedded-systems.vercel.app/"
             }
         }
     ]
