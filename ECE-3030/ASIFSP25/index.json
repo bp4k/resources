@@ -1,0 +1,68 @@
+{
+    "version": "2026-01-24",
+    "type": "net.bp4k.ResourceListing",
+    "resources": [
+        {
+            "id": "hw",
+            "type": "section",
+            "name": "Homeworks",
+            "content": [
+                {
+                    "id": "hw1rg",
+                    "type": "external-file",
+                    "name": "HW 1",
+                    "subheading": "Solved",
+                    "mime": "application/pdf",
+                    "link": "https://raw.githubusercontent.com/rudra-goel/coursework/refs/heads/ece3030/HW%201%20Completed.pdf"
+                },
+                {
+                    "id": "hw2rg",
+                    "type": "external-file",
+                    "name": "HW 2",
+                    "subheading": "Solved",
+                    "mime": "application/pdf",
+                    "link": "https://raw.githubusercontent.com/rudra-goel/coursework/refs/heads/ece3030/HW%202%20Complete.pdf"
+                },
+                {
+                    "id": "hw3rg",
+                    "type": "external-file",
+                    "name": "HW 3",
+                    "subheading": "Solved",
+                    "mime": "application/pdf",
+                    "link": "https://raw.githubusercontent.com/rudra-goel/coursework/refs/heads/ece3030/HW%203%20Complete.pdf"
+                },
+                {
+                    "id": "hw1rg",
+                    "type": "external-file",
+                    "name": "HW 4",
+                    "subheading": "Solved",
+                    "mime": "application/pdf",
+                    "link": "https://raw.githubusercontent.com/rudra-goel/coursework/refs/heads/ece3030/HW%204%20Complete.pdf"
+                },
+                {
+                    "id": "hw1rg",
+                    "type": "external-file",
+                    "name": "HW 5",
+                    "subheading": "Solved",
+                    "mime": "application/pdf",
+                    "link": "https://raw.githubusercontent.com/rudra-goel/coursework/refs/heads/ece3030/HW%205%20Complete.pdf"
+                }
+            ]
+        },
+        {
+            "id": "hw-gwi",
+            "type": "section",
+            "name": "Homeworks (pre-Fa 25)",
+            "content": [
+                {
+                    "id": "hw-gwi-allzip",
+                    "type": "external-file",
+                    "name": "All Homeworks",
+                    "subheading": "ZIP file",
+                    "mime": "application/pdf",
+                    "link": "https://github.com/rudra-goel/coursework/raw/refs/heads/ece3030/ECE%203030%20Homeworks.zip"
+                }
+            ]
+        }
+    ]
+}

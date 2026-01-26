@@ -12,11 +12,11 @@
             }
         },
         {
-            "id": "ECE-3058",
-            "number": "ECE-3058",
-            "name": "Architecture, Systems, Energy and Concurrency in Comp.",
+            "id": "ECE-3030",
+            "number": "ECE-3030",
+            "name": "Physical Foundations of Computer Engineering",
             "_links": {
-                "sections": "ECE-3058/index.json"
+                "sections": "ECE-3030/index.json"
             }
         },
         {
