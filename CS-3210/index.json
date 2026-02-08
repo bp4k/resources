@@ -1,0 +1,16 @@
+{
+    "version": "2026-01-24",
+    "type": "net.bp4k.SectionListing",
+    "sections": [
+        {
+            "id": "ROMEROSP26",
+            "semester": "202602",
+            "name": "CS-3210-B",
+            "instructors": ["Dr. Francisco Romero"],
+            "contributors": ["Anon"],
+            "_links": {
+                "resources": "ROMEROSP26/index.json"
+            }
+        }
+    ]
+}

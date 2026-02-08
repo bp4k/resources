@@ -26,6 +26,14 @@
             "_links": {
                 "sections": "ECE-4180/index.json"
             }
+        },
+        {
+            "id": "CS-3210",
+            "number": "CS-3210",
+            "name": "Operating Systems",
+            "_links": {
+                "sections": "CS-3210/index.json"
+            }
         }
     ]
 }
