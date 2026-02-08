@@ -10,8 +10,7 @@
                 "Samin Alipur", "Destiny Mabry", "Advaith Menon"],
             "contributors": ["Advaith Menon (TA resources)"],
             "_links": {
-                "resources": "FRAZIERSU25/index.json",
-                "website": "https://people.devinivas.org/"
+                "resources": "FRAZIERSU25/index.json"
             }
         }
     ]
