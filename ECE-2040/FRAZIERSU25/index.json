@@ -1,0 +1,144 @@
+{
+    "version": "2026-01-24",
+    "type": "net.bp4k.ResourceListing",
+    "resources": [
+        {
+            "id": "e53f5905-e12b-4582-967e-8bd40251c2e9",
+            "type": "section",
+            "name": "Summary Sheets",
+            "content": [
+                {
+                    "id": "4d5720e1-79ec-45c5-9500-e5904c79b987",
+                    "type": "external-file",
+                    "name": "Chapter 1",
+                    "subheading": "Electric Circuit Variables",
+                    "mime": "application/pdf",
+                    "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/Chapter01Summary.pdf"
+                },
+                {
+                    "id": "50084bcb-ac6c-4e31-8cf7-58cbec225e37",
+                    "type": "external-file",
+                    "name": "Chapter 2",
+                    "subheading": "Circuit Elements",
+                    "mime": "application/pdf",
+                    "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/Chapter02Summary.pdf"
+                },
+                {
+                    "id": "b5880e30-0e14-49f3-b1ff-64d512b90968",
+                    "type": "external-file",
+                    "name": "Chapter 5",
+                    "subheading": "Circuit Theorems",
+                    "mime": "application/pdf",
+                    "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/Chapter05SummaryHandwritten.pdf"
+                },
+                {
+                    "id": "4b61bdc3-1017-4dcc-a772-2d1006fde718",
+                    "type": "external-file",
+                    "name": "Chapter 6",
+                    "subheading": "The Operational Amplifier",
+                    "mime": "application/pdf",
+                    "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/Chapter06Summary.pdf"
+                },
+                {
+                    "id": "d45464cf-a0c0-4155-b8d4-4ef442a1cf9f",
+                    "type": "external-file",
+                    "name": "Chapter 7",
+                    "subheading": "Energy Storage Elements",
+                    "mime": "application/pdf",
+                    "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/Chapter07Summary.pdf"
+                },
+                {
+                    "id": "6c7a23ed-64fe-4eee-bbc1-90ca46ff67eb",
+                    "type": "external-file",
+                    "name": "Chapter 8",
+                    "subheading": "The complete response of RL and RC circuits",
+                    "mime": "application/pdf",
+                    "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/Chapter08Summary.pdf"
+                }
+            ]
+        },
+        {
+            "id": "87a96fde-283b-4002-875e-8a5d6efe9186",
+            "type": "section",
+            "name": "Solved Problems",
+            "content": [
+                {
+                    "id": "1e8a48a9-4ece-40be-96d8-6cf5cd4239fe",
+                    "type": "section",
+                    "name": "Textbook Problems",
+                    "content": [
+                        {
+                            "id": "28d26aa5-802f-46da-917b-e4353761c010",
+                            "type": "external-file",
+                            "name": "2.6-5",
+                            "mime": "application/pdf",
+                            "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/SolutionSvoboda2.6-5.pdf"
+                        },
+                        {
+                            "id": "8b9e80b5-1b6a-433f-81ea-aff1f9986340",
+                            "type": "external-file",
+                            "name": "7.5-13",
+                            "mime": "application/pdf",
+                            "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/SolutionSvoboda7.5-13.pdf"
+                        },
+                        {
+                            "id": "66e6d15d-387f-41cf-9dda-33540cb96125",
+                            "type": "external-file",
+                            "name": "8.3-4",
+                            "mime": "application/pdf",
+                            "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/SolutionSvoboda8.3-4.pdf"
+                        },
+                        {
+                            "id": "467b162f-9bb4-461d-b14c-a146b98ab13d",
+                            "type": "external-file",
+                            "name": "8.3-10",
+                            "mime": "application/pdf",
+                            "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/SolutionSvoboda8.3-10.pdf"
+                        },
+                        {
+                            "id": "bce899d8-e724-4692-acfe-2ad5b63b74df",
+                            "type": "external-file",
+                            "name": "8.3-14",
+                            "mime": "application/pdf",
+                            "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/SolutionSvoboda8.3-14.pdf"
+                        },
+                        {
+                            "id": "dc5ae670-79ae-41a0-a0cc-a46f456dc48c",
+                            "type": "external-file",
+                            "name": "8.6-13",
+                            "mime": "application/pdf",
+                            "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/SolutionSvoboda8.6-13.pdf"
+                        }
+                    ]
+                },
+                {
+                    "id": "94ab3605-4e0b-45a1-9304-d4a2a0156a56",
+                    "type": "section",
+                    "name": "Previous Semesters' Exams",
+                    "content":[
+                        {
+                            "id": "61101dc2-8bff-4036-a4cd-3ccef263ccda",
+                            "type": "external-file",
+                            "name": "Problem 3",
+                            "subheading": "Exam 1 Summer 2015",
+                            "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/SolutionExam01Summer15Q3.pdf"
+                        },
+                        {
+                            "id": "225bd801-e9b9-4ec0-8ec9-bfda627bc621",
+                            "type": "external-file",
+                            "name": "Problem 2",
+                            "subheading": "Exam 1 Summer 2020",
+                            "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/SolutionExam01Summer20Q2.pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0e221b03-43de-4fa2-aca2-554922a5fe14",
+            "type": "section",
+            "name": "Concepts",
+            "content": []
+        }
+    ]
+}
