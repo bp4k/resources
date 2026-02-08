@@ -1,0 +1,36 @@
+{
+    "version": "2026-01-24",
+    "type": "net.bp4k.ResourceListing",
+    "resources": [
+        {
+            "id": "e53f5905-e12b-4582-967e-8bd40251c2e9",
+            "type": "section",
+            "name": "Demos",
+            "content": [
+                {
+                    "id": "4d5720e1-79ec-45c5-9500-e5904c79b987",
+                    "type": "external-file",
+                    "name": "Writing to the uLCD without a library",
+                    "subheading": "Help Document",
+                    "mime": "application/pdf",
+                    "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE4180-resources/uLCD-NoLibrary-Draft002.pdf"
+                },
+                {
+                    "id": "50084bcb-ac6c-4e31-8cf7-58cbec225e37",
+                    "type": "external-link",
+                    "name": "Writing to the uLCD without a library",
+                    "subheading": "Code (Git Repository)",
+                    "link": "https://git.devinivas.org/?p=4dulcd-nolibrary.git;a=summary"
+                },
+                {
+                    "id": "b5880e30-0e14-49f3-b1ff-64d512b90968",
+                    "type": "external-link",
+                    "name": "Writing to the uLCD without a library",
+                    "subheading": "Code (Git Clone for GH Desktop users)",
+                    "link": "x-github-client://openRepo/git://git.devinivas.org/4dulcd-nolibrary.git"
+                }
+            ]
+        }
+    ]
+}
+
