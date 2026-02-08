@@ -23,7 +23,6 @@
                     "link": "https://git.devinivas.org/?p=4dulcd-nolibrary.git;a=summary"
                 },
                 {
-<<<<<<< HEAD
                     "id": "50084bcb-ac6c-4e3f-8cf7-58cbec225e37",
                     "type": "external-link",
                     "name": "Writing to the uLCD without a library",
@@ -31,8 +30,6 @@
                     "link": "https://git.devinivas.org/?p=4dulcd-nolibrary.git;a=tree;h=refs/heads/Arduino_Code_Lab2Starter"
                 },
                 {
-=======
->>>>>>> 21b9bd4 (Add 4180 TA resources)
                     "id": "b5880e30-0e14-49f3-b1ff-64d512b90968",
                     "type": "external-link",
                     "name": "Writing to the uLCD without a library",
