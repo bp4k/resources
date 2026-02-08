@@ -1,0 +1,26 @@
+{
+    "version": "2026-01-24",
+    "type": "net.bp4k.SectionListing",
+    "sections": [
+        {
+            "id": "ASIFSP25",
+            "semester": "202502",
+            "name": "ECE-3030-RG",
+            "instructors": ["Dr. Asif Khan"],
+            "contributors": ["Anonymous Students"],
+            "_links": {
+                "resources": "ASIFSP25/index.json"
+            }
+        },
+        {
+            "id": "DUTTAFA25",
+            "semester": "202508",
+            "name": "ECE-3030-A",
+            "instructors": ["Dr. Suman Dutta"],
+            "contributors": ["Anonymous Students"],
+            "_links": {
+                "resources": "DUTTAFA25/index.json"
+            }
+        }
+    ]
+}
