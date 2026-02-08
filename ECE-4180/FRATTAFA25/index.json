@@ -1,0 +1,43 @@
+{
+    "version": "2026-01-24",
+    "type": "net.bp4k.ResourceListing",
+    "resources": [
+        {
+            "id": "e53f5905-e12b-4582-967e-8bd40251c2e9",
+            "type": "section",
+            "name": "Old Labs",
+            "content": [
+                {
+                    "id": "4d5720e1-79ec-45c5-9500-e5904c79b987",
+                    "type": "external-file",
+                    "name": "Lab 1",
+                    "subheading": "Input/Output",
+                    "mime": "application/pdf",
+                    "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE4180-resources/lab1_fa25.pdf"
+                },
+                {
+                    "id": "50084bcb-ac6c-4e31-8cf7-58cbec225e37",
+                    "type": "external-file",
+                    "name": "Lab 2",
+                    "subheading": "UART, SPI and I2C",
+                    "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE4180-resources/lab2_fa25.pdf"
+                },
+                {
+                    "id": "b5880e30-0e14-49f3-b1ff-64d512b90968",
+                    "type": "external-file",
+                    "name": "Lab 3",
+                    "subheading": "Interrupts and Wireless Communication",
+                    "link": ""https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE4180-resources/lab3_fa25.pdf"
+                },
+                {
+                    "id": "4b61bdc3-1017-4dcc-a772-2d1006fde718",
+                    "type": "external-file",
+                    "name": "Lab 4",
+                    "subheading": "ESP-NOW, Real-Time Systems and Non-Volatile Memory",
+                    "link": ""https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE4180-resources/lab4_fa25.pdf"
+                }
+            ]
+        }
+    ]
+}
+
