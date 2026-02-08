@@ -138,7 +138,26 @@
             "id": "0e221b03-43de-4fa2-aca2-554922a5fe14",
             "type": "section",
             "name": "Concepts",
-            "content": []
+            "content": [
+                {
+                    "id": "db5b6692-3b00-4eff-88be-b6105ed726ae",
+                    "type": "external-file",
+                    "name": "First Order Liner Differential Equations Review",
+                    "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/ConceptFOLDE.pdf"
+                },
+                {
+                    "id": "7f9676e9-429e-4ee4-8285-e0432a18f65d",
+                    "type": "external-file",
+                    "name": "Resopnse of RL and RC circuits with Constant Input",
+                    "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/ConceptFirstOrderResponse.pdf"
+                },
+                {
+                    "id": "e8972d16-527b-40c0-ac2a-ed2a5ae6d1d1",
+                    "type": "external-file",
+                    "name": "Response of RL and RC circuits with Nonconstant input",
+                    "link": "https://d191h8mmxs3x6q.cloudfront.net/madvaith1/ECE2040-resources/ConceptFirstOrderNCResponse.pdf"
+                }
+            ]
         }
     ]
 }
