@@ -28,6 +28,14 @@
             }
         },
         {
+            "id": "ECE-3150",
+            "number": "ECE-3150",
+            "name": "VLSI & Adv Digital Dsgn",
+            "_links": {
+                "sections": "ECE-3150/index.json"
+            }
+        },
+        {
             "id": "CS-3210",
             "number": "CS-3210",
             "name": "Operating Systems",
