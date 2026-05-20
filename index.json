@@ -20,6 +20,15 @@
             }
         },
         {
+            "id": "ECE-3058",
+            "number": "ECE-3058",
+            "name": "Foundations of Computer Architecture",
+            "description": "Architecture, Systems and Energy in Computation",
+            "_links": {
+                "sections": "ECE-3058/index.json"
+            }
+        },
+        {
             "id": "ECE-4180",
             "number": "ECE-4180",
             "name": "Embedded Systems",

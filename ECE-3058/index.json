@@ -1,0 +1,16 @@
+{
+    "version": "2026-01-24",
+    "type": "net.bp4k.SectionListing",
+    "sections": [
+        {
+            "id": "FRATTASU25",
+            "semester": "202505",
+            "name": "ECE-3058-A",
+            "instructors": ["Prof. Diego Fratta"],
+            "contributors": ["Anonymous Students"],
+            "_links": {
+                "resources": "FRATTASU25/index.json"
+            }
+        }
+    ]
+}
